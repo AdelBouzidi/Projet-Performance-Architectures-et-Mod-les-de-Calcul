@@ -1,2 +1,4 @@
 # Projet-Performance-Architectures-et-Mod-les-de-Calcul
 Analyse de performance du code calculant le nombre de zéros sur la ligne critique de la fonction Zêta de Riemann
+
+Ce travail se concentre sur l’optimisation des performances, en mettant l’accent sur les calculs intensifs liés à la fonction Zêta de Riemann. L’objectif principal est de comprendre comment les techniques d’optimisation peuvent améliorer les performances computationnelles et d’évaluer l’impact de ces optimisations lorsqu’elles sont appliquées dans un contexte pratique. En parallèle, une analyse comparative approfondie a été réalisée entre trois compilateurs largement utilisés dans le domaine du développement logiciel : GCC, Clang et ICX. Chaque compilateur a été testé avec différents niveaux d’optimisation, notamment O2, O3 et Ofast, afin de mesurer leur efficacité sur des calculs intensifs.
